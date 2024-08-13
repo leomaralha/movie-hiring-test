@@ -46,6 +46,8 @@ Build a simple fullstack application that allows users to browse movies, select 
 - **Ticket Purchase Page:**
   - Allow users to select the number of tickets for a specific showtime and initiate a purchase.
   - Display feedback based on the result of the purchase (success or failure).
+- **Administration**
+  - Allow users to register showtimes to movies
 
 #### State Management
 - Use React's built-in state management (e.g., `useState`, `useEffect`) or any state management library of your choice (e.g., Redux) to handle the application state.
