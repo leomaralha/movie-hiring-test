@@ -58,7 +58,7 @@ Build a simple fullstack application that allows users to browse movies, select 
 - Use TypeScript across both backend and frontend for type safety.
 - Include basic error handling for all API interactions.
 
-#### Testing
+#### Deisred (NOT MANDATORY) Testing
 - Write unit tests for critical parts of the backend (e.g., queue management, API endpoints).
 - Optional: Write frontend tests using a testing library like Jest or React Testing Library.
 
