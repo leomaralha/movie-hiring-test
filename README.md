@@ -5,7 +5,7 @@ Build a simple fullstack application that allows users to browse movies, select 
 
 ## Tech Stack
 - **Backend:** NestJS
-- **Frontend:** React
+- **Frontend:** React, Tailwind
 - **Database:** TypeORM (with a relational database of your choice)
 - **Queue:** In-memory queue (e.g., using NestJS’ built-in capabilities or custom implementation)
 
